@@ -1,16 +1,62 @@
-### Hi there 👋
+# Swathi S
 
-<!--
-**SwathiS2112/SwathiS2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SwathiS-blue)](https://linkedin.com/in/SwathiS)
+[![GitHub](https://img.shields.io/badge/GitHub-SwathiS2112-green)](https://github.com/SwathiS2112)
 
-Here are some ideas to get you started:
+📧 Email: swathis2112@gmail.com
+📱 Mobile: +91 8431737829
+📍 Address: Challakere
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a computer science enthusiast with a Bachelor's degree in Computer Science. I am passionate about coding and software development. My technical skills include:
+
+- Java
+- Python
+- HTML/CSS
+- Object-Oriented Programming (OOP)
+- SQL
+
+## Skills
+
+**Technical Skills:**
+
+- Java
+- Python
+- HTML/CSS
+- Object-Oriented Programming (OOP)
+- SQL
+
+**Soft Skills:**
+
+- Effective Communication
+- Team Collaboration
+- Decision Making
+- Flexibility
+- Self-Motivation
+
+## Hobbies
+
+- Drawing
+- Traveling
+- Dancing
+
+## Languages
+
+- Kannada
+- English
+- Telugu
+
+## Education
+
+- Bachelor's Degree in Computer Science
+  - UBDT College of Engineering, Davangere
+  - Graduated: June 2023
+  - CGPA: 8.00
+
+- Pre-University Course (PCMB)
+  - SRS PU College, Challakere
+  - Graduated: March 2019
+  - Percentage: 86.5%
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/SwathiS) and check out my projects on [GitHub](https://github.com/SwathiS2112).
