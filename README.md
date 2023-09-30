@@ -1,6 +1,6 @@
 # Swathi S
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SwathiS-blue)](https://linkedin.com/in/SwathiS](https://www.linkedin.com/in/swathi-s-941705228/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SwathiS-blue)](https://www.linkedin.com/in/swathi-s-941705228/)
 [![GitHub](https://img.shields.io/badge/GitHub-SwathiS2112-green)](https://github.com/SwathiS2112)
 
 📧 Email: swathis2112@gmail.com
