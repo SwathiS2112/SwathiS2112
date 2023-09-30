@@ -9,14 +9,7 @@
 
 ## About Me
 
-I am a computer science enthusiast with a Bachelor's degree in Computer Science. I am passionate about coding and software development. My technical skills include:
-
-- Java
-- Python
-- HTML/CSS
-- Object-Oriented Programming (OOP)
-- SQL
-
+I am a computer science enthusiast with a Bachelor's degree in Computer Science. I am passionate about coding and software development. 
 ## Skills
 
 **Technical Skills:**
