@@ -27,26 +27,6 @@ I am a computer science enthusiast with a Bachelor's degree in Computer Science.
 - Object-Oriented Programming (OOP)
 - SQL
 
-**Soft Skills:**
-
-- Effective Communication
-- Team Collaboration
-- Decision Making
-- Flexibility
-- Self-Motivation
-
-## Hobbies
-
-- Drawing
-- Traveling
-- Dancing
-
-## Languages
-
-- Kannada
-- English
-- Telugu
-
 ## Education
 
 - Bachelor's Degree in Computer Science
@@ -59,4 +39,4 @@ I am a computer science enthusiast with a Bachelor's degree in Computer Science.
   - Graduated: March 2019
   - Percentage: 86.5%
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/SwathiS) and check out my projects on [GitHub](https://github.com/SwathiS2112).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/swathi-s-941705228/) and check out my projects on [GitHub](https://github.com/SwathiS2112).
